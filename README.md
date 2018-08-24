@@ -6,17 +6,16 @@ Each Chapter will be correlated to a tag in this repository. This will make it e
 
 List of chapters and their status:
 
-- [ ]: Create a Virtual Environment
-- [ ]: Getting Started: Install OpenCV, Numpy, and Matplotlib
-- [ ]: Structuring the Project: The MVC pattern
-- [ ]: Developing a Model for the Camera and a Dummy model
-- [ ]: Developing a Model for the Experiment
-- [ ]: Using Threads to interact with the Experiment
-- [ ]: Starting with PyQt5: Buttons, Signals and Slots
-- [ ]: Displaying a video: Introduction to PyQtGraph
-- [ ]: Using QThreads to keep the GUI Responsive
-- [ ]: Saving Data using HDF5
-- [ ]: Streaming data to disk: Multiprocessing
-- [ ]: Real-time data analysis: Face Detection
-- [ ]: Where to next
-
+- [ ] Create a Virtual Environment
+- [ ] Getting Started: Install OpenCV, Numpy, and Matplotlib
+- [ ] Structuring the Project: The MVC pattern
+- [ ] Developing a Model for the Camera and a Dummy model
+- [ ] Developing a Model for the Experiment
+- [ ] Using Threads to interact with the Experiment
+- [ ] Starting with PyQt5: Buttons, Signals and Slots
+- [ ] Displaying a video: Introduction to PyQtGraph
+- [ ] Using QThreads to keep the GUI Responsive
+- [ ] Saving Data using HDF5
+- [ ] Streaming data to disk: Multiprocessing
+- [ ] Real-time data analysis: Face Detection
+- [ ] Where to next
